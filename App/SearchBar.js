@@ -5,7 +5,6 @@ var {
   TextInput
 } = React;
 
-
 class SearchBar extends React.Component {
   render () {
     return (
